@@ -14,6 +14,8 @@ Populate this folder with various configs renaming them for identification
 
 Start the exe and it will give you a selection menu where you can select which config to use.
 
-
+![2](https://github.com/JonathanTurnock/dcs-options-manager/blob/master/2.png)
 
 I add this to my steam library and run it before starting DCS.
+
+![1](https://github.com/JonathanTurnock/dcs-options-manager/blob/master/1.png)
