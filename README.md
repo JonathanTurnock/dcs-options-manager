@@ -1,7 +1,7 @@
 # dcs-options-manager
 Easy CLI tool to flip between different `options.lua`s in DCS World
 
-Useful for enabling and disabling VR easily among other things, i.e. a Screenshot config.
+Useful for enabling and disabling VR easily among other things, i.e. a Screenshot config with maxed visuals.
 
 ## Usage
 Inside the DCS config folder `%USERPROFILE%\Saved Games\DCS\Config` create a new subfolder, I use `.options`
