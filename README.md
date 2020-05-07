@@ -1,5 +1,5 @@
 # dcs-options-manager
-Easy CLI tool to flip between different options.luas in DCS World
+Easy CLI tool to flip between different `options.lua`s in DCS World
 
 Useful for enabling and disabling VR easily.
 
