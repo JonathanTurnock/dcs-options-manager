@@ -103,6 +103,22 @@ options = {
 		["synchronize_controls"] = false,
 	},
 	["plugins"] = {
+		["Tacview"] = {
+			["tacviewBookmarkShortcut"] = 0,
+			["tacviewClientTelemetryPassword"] = "",
+			["tacviewCompressionLevel"] = 1,
+			["tacviewDataRecordingEnabled"] = true,
+			["tacviewDebugModeEnabled"] = false,
+			["tacviewHostTelemetryPassword"] = "",
+			["tacviewPlaybackDelay"] = 600,
+			["tacviewProfilingPeriod"] = 600,
+			["tacviewRealTimeTelemetryPort"] = "42674",
+			["tacviewRecordClientsSessionsEnabled"] = false,
+			["tacviewRemoteControlPassword"] = "",
+			["tacviewRemoteControlPort"] = "42675",
+			["tacviewTerrainExport"] = 0,
+		},
+
 		["A-10C"] = {
 			["CPLocalList"] = "default",
 		},
@@ -171,20 +187,6 @@ options = {
 			["CPLocalList"] = "default",
 			["assistance"] = 0,
 			["autoRudder"] = false,
-		},
-		["Tacview"] = {
-			["tacviewBookmarkShortcut"] = 0,
-			["tacviewCompressionLevel"] = 1,
-			["tacviewDataRecordingEnabled"] = true,
-			["tacviewDebugModeEnabled"] = false,
-			["tacviewHostTelemetryPassword"] = "",
-			["tacviewPlaybackDelay"] = 600,
-			["tacviewProfilingPeriod"] = 600,
-			["tacviewRealTimeTelemetryPort"] = "42674",
-			["tacviewRecordClientsSessionsEnabled"] = false,
-			["tacviewRemoteControlPassword"] = "",
-			["tacviewRemoteControlPort"] = "42675",
-			["tacviewTerrainExport"] = 0,
 		},
 		["UH-1H"] = {
 			["CPLocalList"] = "default",
