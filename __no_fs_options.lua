@@ -137,7 +137,7 @@ options = {
 		["F-16C"] = {
 			["CPLocalList"] = "default",
 			["abDetent"] = 0,
-			["hmdEye"] = 1,
+			["hmdEye"] =2,
 		},
 		["F-5E-3"] = {
 			["CPLocalList"] = "default",
@@ -149,7 +149,7 @@ options = {
 			["CPLocalList"] = "default",
 			["F18RealisticTDC"] = true,
 			["abDetent"] = 0,
-			["hmdEye"] = 1,
+			["hmdEye"] =2,
 		},
 		["FC3"] = {
 			["CPLocalList_A-10A"] = "default",
